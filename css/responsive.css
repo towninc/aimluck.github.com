@@ -132,16 +132,16 @@
 @media (max-width: 767px) {
   /* line 9, ../sass-twitter-bootstrap-master/css/_responsive-767px-max.scss */
   body {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   /* line 16, ../sass-twitter-bootstrap-master/css/_responsive-767px-max.scss */
   .navbar-fixed-top,
   .navbar-fixed-bottom,
   .navbar-static-top {
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
   }
 
   /* line 21, ../sass-twitter-bootstrap-master/css/_responsive-767px-max.scss */
@@ -265,9 +265,9 @@
 
   /* line 122, ../sass-twitter-bootstrap-master/css/_responsive-767px-max.scss */
   .hero {
-    padding: 20px 20px;
-    margin-right: -20px;
-    margin-left: -20px;
+    padding: 20px 10px;
+    margin-right: -10px;
+    margin-left: -10px;
   }
 
   /* line 127, ../sass-twitter-bootstrap-master/css/_responsive-767px-max.scss */
