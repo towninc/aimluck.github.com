@@ -35,14 +35,14 @@ h1, h2, h3, h4, h5, h6 {
 .hero {
   padding: 80px 0;
   background: #f89406;
-  background-color: #f9a023;
-  background-image: -moz-linear-gradient(top, #faa937, #f89406);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#faa937), to(#f89406));
-  background-image: -webkit-linear-gradient(top, #faa937, #f89406);
-  background-image: -o-linear-gradient(top, #faa937, #f89406);
-  background-image: linear-gradient(to bottom, #faa937, #f89406);
+  background-color: #f9f9f9;
+  background-image: -moz-linear-gradient(top, white, #f2f2f2);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#f2f2f2));
+  background-image: -webkit-linear-gradient(top, white, #f2f2f2);
+  background-image: -o-linear-gradient(top, white, #f2f2f2);
+  background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
   background-repeat: repeat-x;
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFAA937', endColorstr='#FFF89406', GradientType=0);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFFFF', endColorstr='#FFF2F2F2', GradientType=0);
 }
 
 /* line 38, ../sass-twitter-bootstrap-master/css/style.scss */
